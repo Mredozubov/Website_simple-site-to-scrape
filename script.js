@@ -1,5 +1,1 @@
-const colorButton = document.querySelector("#colorButton");
-
-colorButton.addEventListener("click", () => {
-  colorButton.classList.toggle("clicked");
-});
+// The button's press-and-hold color is handled by CSS in style.css.
