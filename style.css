@@ -38,3 +38,7 @@ button.clicked {
   background: green;
   color: white;
 }
+
+button.clicked:hover {
+  background: green;
+}
